@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/../newbiest-srms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newbiest-srms/newbiest-calendar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newbiest-srms/newbiest-common-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newbiest-srms/newbiest-common-context" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newbiest-srms/newbiest-common-idgenerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newbiest-srms/newbiest-dist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newbiest-srms/newbiest-rms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newbiest-srms/newbiest-starter" charset="UTF-8" />
+  </component>
+</project>
